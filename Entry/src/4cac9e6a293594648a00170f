@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Créteil</adrline1>
+            <adrline2>9 Rue Thomas Edison</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>94010</pstcd>
+            <strtnm></strtnm>
+            <twnnm>CRETEIL CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 1 42 07 22 92</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 1 42 07 00 04</pnumber>
+        </tel>
+        <ville>CRETEIL CEDEX</ville>
+    </internal>
+</panel>

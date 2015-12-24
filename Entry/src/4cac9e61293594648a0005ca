@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Saintes</adrline1>
+            <adrline2>2 Rue des Rochers</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>17100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>SAINTES</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 46 74 18 77</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 46 74 28 17</pnumber>
+        </tel>
+        <ville>SAINTES</ville>
+    </internal>
+</panel>

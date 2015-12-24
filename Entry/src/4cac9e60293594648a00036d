@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Evry</adrline1>
+            <adrline2>1 Rue de la Patinoire</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>91011</pstcd>
+            <strtnm></strtnm>
+            <twnnm>EVRY CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 1 60 78 60 77</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 1 69 47 36 26</pnumber>
+        </tel>
+        <ville>EVRY CEDEX</ville>
+    </internal>
+</panel>

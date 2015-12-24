@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Boulogne-Billancourt</adrline1>
+            <adrline2>7 Rue Mahias</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>92100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>BOULOGNE BILLANCOURT</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 1 46 99 91 21</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 1 46 99 91 20</pnumber>
+        </tel>
+        <ville>BOULOGNE BILLANCOURT</ville>
+    </internal>
+</panel>

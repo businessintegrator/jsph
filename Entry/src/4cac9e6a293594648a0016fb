@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Lannoy</adrline1>
+            <adrline2>Pavillon des Croisiers</adrline2>
+            <adrline3>Rue de Tournai   B.P. 41</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>59390</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LANNOY</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 20 66 06 78</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 20 75 81 38</pnumber>
+        </tel>
+        <ville>LANNOY</ville>
+    </internal>
+</panel>

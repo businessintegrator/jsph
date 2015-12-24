@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Limoges</adrline1>
+            <adrline2>41 Boulevard Carnot</adrline2>
+            <adrline3>B.P. 20</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>87001</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LIMOGES CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 55 79 65 82</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 55 79 72 42</pnumber>
+        </tel>
+        <ville>LIMOGES CEDEX 1</ville>
+    </internal>
+</panel>

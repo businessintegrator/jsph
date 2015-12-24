@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Tribunal du Travail de Mamoudzou</adrline1>
+            <adrline2>Zone Nel</adrline2>
+            <adrline3>Kaweni</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>97600</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MAMOUDZOU</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 69 61 19 63</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 69 61 12 65</pnumber>
+        </tel>
+        <ville>MAMOUDZOU</ville>
+    </internal>
+</panel>

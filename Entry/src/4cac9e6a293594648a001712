@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Saint-Denis de La Réunion</adrline1>
+            <adrline2>5 Avenue André Malraux</adrline2>
+            <adrline3>B.P. 338</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>97494</pstcd>
+            <strtnm></strtnm>
+            <twnnm>STE CLOTILDE CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 62 41 20 09</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 62 40 23 45</pnumber>
+        </tel>
+        <ville>STE CLOTILDE CEDEX</ville>
+    </internal>
+</panel>

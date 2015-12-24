@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Perpignan</adrline1>
+            <adrline2>13-15 Cours Lazare Escarguel</adrline2>
+            <adrline3>B.P. 309</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>66003</pstcd>
+            <strtnm></strtnm>
+            <twnnm>PERPIGNAN CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 68 34 05 00</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 68 51 33 88</pnumber>
+        </tel>
+        <ville>PERPIGNAN CEDEX</ville>
+    </internal>
+</panel>

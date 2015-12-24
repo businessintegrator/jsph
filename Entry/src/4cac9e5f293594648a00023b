@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Brest</adrline1>
+            <adrline2>150 rue Ernest Hemingway</adrline2>
+            <adrline3>Bâtiment QUAI OUEST CS 51864</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>29218</pstcd>
+            <strtnm></strtnm>
+            <twnnm>BREST CEDEX 2</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 98 46 76 29</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 98 20 75 10</pnumber>
+        </tel>
+        <ville>BREST CEDEX 2</ville>
+    </internal>
+</panel>

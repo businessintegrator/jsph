@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Roubaix</adrline1>
+            <adrline2>Palais de Justice</adrline2>
+            <adrline3>45 Rue du Grand Chemin</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>59070</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ROUBAIX CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 20 70 77 74</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 20 70 95 91</pnumber>
+        </tel>
+        <ville>ROUBAIX CEDEX 1</ville>
+    </internal>
+</panel>

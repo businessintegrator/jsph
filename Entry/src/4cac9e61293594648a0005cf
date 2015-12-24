@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Pointe-à-Pitre</adrline1>
+            <adrline2>7 Rue Victor Hugues</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>97110</pstcd>
+            <strtnm></strtnm>
+            <twnnm>POINTE A PITRE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 90 91 83 95</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 90 82 03 16</pnumber>
+        </tel>
+        <ville>POINTE A PITRE</ville>
+    </internal>
+</panel>

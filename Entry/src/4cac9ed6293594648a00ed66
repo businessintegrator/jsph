@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Montpellier</adrline1>
+            <adrline2>9 rue de Tarragone</adrline2>
+            <adrline3>CS 90068</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>34040</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MONTPELLIER CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 34 08 32 20</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 34 08 32 00</pnumber>
+        </tel>
+        <ville>MONTPELLIER CEDEX 1</ville>
+    </internal>
+</panel>

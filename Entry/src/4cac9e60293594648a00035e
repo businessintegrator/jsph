@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Poitiers</adrline1>
+            <adrline2>15 Rue Guillaume Troubadour</adrline2>
+            <adrline3>Lotissement de l'Hôtel Dieu</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>86000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>POITIERS</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 49 41 31 43</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 49 41 18 85</pnumber>
+        </tel>
+        <ville>POITIERS</ville>
+    </internal>
+</panel>

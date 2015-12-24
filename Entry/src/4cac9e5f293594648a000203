@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Marseille</adrline1>
+            <adrline2>6 Rue Rigord</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>13007</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MARSEILLE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 91 54 09 52</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 91 13 62 01</pnumber>
+        </tel>
+        <ville>MARSEILLE</ville>
+    </internal>
+</panel>

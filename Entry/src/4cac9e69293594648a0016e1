@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Dijon</adrline1>
+            <adrline2>Cité Judiciaire</adrline2>
+            <adrline3>13 Boulevard Clémenceau  B.P.53</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>21072</pstcd>
+            <strtnm></strtnm>
+            <twnnm>DIJON CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 80 70 45 50</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 80 70 45 45</pnumber>
+        </tel>
+        <ville>DIJON CEDEX</ville>
+    </internal>
+</panel>

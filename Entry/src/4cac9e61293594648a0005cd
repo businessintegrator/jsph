@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Arras</adrline1>
+            <adrline2>31 rue Saint-Michel</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>62000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ARRAS</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 21 60 32 89</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 21 60 32 80</pnumber>
+        </tel>
+        <ville>ARRAS</ville>
+    </internal>
+</panel>

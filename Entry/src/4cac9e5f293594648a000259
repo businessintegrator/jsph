@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Tours</adrline1>
+            <adrline2>Cité Adminis. Champs Girault</adrline2>
+            <adrline3>2 Rue A. Dennery    B.P. 2605</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>37026</pstcd>
+            <strtnm></strtnm>
+            <twnnm>TOURS CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 47 64 96 55</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 47 70 46 00</pnumber>
+        </tel>
+        <ville>TOURS CEDEX 1</ville>
+    </internal>
+</panel>

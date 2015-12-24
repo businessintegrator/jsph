@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de La Rochelle</adrline1>
+            <adrline2>6 Rue Eugène Thomas</adrline2>
+            <adrline3>B.P. 216</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>17011</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LA ROCHELLE CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 46 50 58 28</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 46 41 21 16</pnumber>
+        </tel>
+        <ville>LA ROCHELLE CEDEX 1</ville>
+    </internal>
+</panel>

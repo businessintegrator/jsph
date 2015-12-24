@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Oyonnax</adrline1>
+            <adrline2>10 Place Emile Zola</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>01100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>OYONNAX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 74 81 89 45</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 74 77 24 47</pnumber>
+        </tel>
+        <ville>OYONNAX</ville>
+    </internal>
+</panel>

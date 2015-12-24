@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes du Puy-en-Velay</adrline1>
+            <adrline2>4 Rue Richond des Brus</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>43011</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LE PUY EN VELAY CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 71 02 25 01</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 71 09 50 78</pnumber>
+        </tel>
+        <ville>LE PUY EN VELAY CEDEX</ville>
+    </internal>
+</panel>

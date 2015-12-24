@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Blois</adrline1>
+            <adrline2>15 Rue du Père-Brottier</adrline2>
+            <adrline3>B.P. 1801</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>41018</pstcd>
+            <strtnm></strtnm>
+            <twnnm>BLOIS CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 54 56 26 56</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 54 56 26 50</pnumber>
+        </tel>
+        <ville>BLOIS CEDEX</ville>
+    </internal>
+</panel>

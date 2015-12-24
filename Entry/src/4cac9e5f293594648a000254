@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Béziers</adrline1>
+            <adrline2>53, avenue Jean Moulin</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>34545</pstcd>
+            <strtnm></strtnm>
+            <twnnm>BEZIERS CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 67 30 91 99</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 67 30 92 00</pnumber>
+        </tel>
+        <ville>BEZIERS CEDEX</ville>
+    </internal>
+</panel>

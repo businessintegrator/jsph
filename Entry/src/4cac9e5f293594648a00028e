@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Laval</adrline1>
+            <adrline2>12 allée de la Chartrerie</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>53000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LAVAL</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 43 68 26 07</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 43 69 24 86</pnumber>
+        </tel>
+        <ville>LAVAL</ville>
+    </internal>
+</panel>

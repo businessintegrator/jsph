@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.bi.jsph.http
+OpenIDE-Module-Localizing-Bundle: com/bi/jsph/http/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

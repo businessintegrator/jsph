@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Fréjus</adrline1>
+            <adrline2>272 Rue Jean Jaurès</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>83600</pstcd>
+            <strtnm></strtnm>
+            <twnnm>FREJUS</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 94 52 24 26</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 94 52 32 06</pnumber>
+        </tel>
+        <ville>FREJUS</ville>
+    </internal>
+</panel>

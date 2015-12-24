@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Lens</adrline1>
+            <adrline2>1 rue Arthur Lamendin</adrline2>
+            <adrline3>BP 239</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>62304</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LENS CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 21 70 15 66</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 21 14 61 80</pnumber>
+        </tel>
+        <ville>LENS CEDEX</ville>
+    </internal>
+</panel>

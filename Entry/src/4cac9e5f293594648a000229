@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Montélimar</adrline1>
+            <adrline2>Palais de Justice</adrline2>
+            <adrline3>B.P. 271</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>26207</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MONTELIMAR CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 75 90 99 91</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 75 00 66 40</pnumber>
+        </tel>
+        <ville>MONTELIMAR CEDEX</ville>
+    </internal>
+</panel>

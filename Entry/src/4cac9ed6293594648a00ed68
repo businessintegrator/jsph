@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Dole</adrline1>
+            <adrline2>39 rue des Arènes</adrline2>
+            <adrline3>BP 93</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>39108</pstcd>
+            <strtnm></strtnm>
+            <twnnm>DOLE CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 84 79 44 89</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 84 79 44 88</pnumber>
+        </tel>
+        <ville>DOLE CEDEX</ville>
+    </internal>
+</panel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes du Havre</adrline1>
+            <adrline2>16 rue du Colonel Fabien</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>76600</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LE HAVRE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 35 51 46 28</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 32 74 91 80</pnumber>
+        </tel>
+        <ville>LE HAVRE</ville>
+    </internal>
+</panel>

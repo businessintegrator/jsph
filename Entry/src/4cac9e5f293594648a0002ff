@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Bonneville</adrline1>
+            <adrline2>Rue du Carroz</adrline2>
+            <adrline3>B.P. 128</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>74136</pstcd>
+            <strtnm></strtnm>
+            <twnnm>BONNEVILLE CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 50 25 28 76</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 50 97 14 10</pnumber>
+        </tel>
+        <ville>BONNEVILLE CEDEX</ville>
+    </internal>
+</panel>

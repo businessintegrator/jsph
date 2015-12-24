@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Montargis</adrline1>
+            <adrline2>84 Rue du Général Leclerc</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>45200</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MONTARGIS</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 38 85 28 31</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 38 85 49 41</pnumber>
+        </tel>
+        <ville>MONTARGIS</ville>
+    </internal>
+</panel>

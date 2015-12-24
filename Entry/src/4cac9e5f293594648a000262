@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Dax</adrline1>
+            <adrline2>Villa Gishia</adrline2>
+            <adrline3>55 Avenue Victor Hugo   BP 301</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>40107</pstcd>
+            <strtnm></strtnm>
+            <twnnm>DAX CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 58 90 86 95</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 58 74 29 74</pnumber>
+        </tel>
+        <ville>DAX CEDEX</ville>
+    </internal>
+</panel>

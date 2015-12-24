@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Mende</adrline1>
+            <adrline2>Boulevard Henri Bourillon</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>48000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MENDE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 66 49 36 80</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 66 65 35 95</pnumber>
+        </tel>
+        <ville>MENDE</ville>
+    </internal>
+</panel>

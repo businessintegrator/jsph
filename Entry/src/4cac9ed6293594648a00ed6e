@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Lille</adrline1>
+            <adrline2>74 Rue des Arts</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>59800</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LILLE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 20 42 10 12</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 20 12 10 00</pnumber>
+        </tel>
+        <ville>LILLE</ville>
+    </internal>
+</panel>

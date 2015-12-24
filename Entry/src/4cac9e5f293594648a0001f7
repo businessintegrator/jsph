@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Annonay</adrline1>
+            <adrline2>10-12 Boulevard de la République</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>07100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ANNONAY</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 75 32 26 83</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 75 33 41 81</pnumber>
+        </tel>
+        <ville>ANNONAY</ville>
+    </internal>
+</panel>

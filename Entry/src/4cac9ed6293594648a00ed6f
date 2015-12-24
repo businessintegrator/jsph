@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Alençon</adrline1>
+            <adrline2>22 boulevard du 1er chasseurs</adrline2>
+            <adrline3>BP 3</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>61001</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ALENCON CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 33 29 71 75</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 33 29 38 02</pnumber>
+        </tel>
+        <ville>ALENCON CEDEX</ville>
+    </internal>
+</panel>

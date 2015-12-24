@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Caen</adrline1>
+            <adrline2>place Gambetta</adrline2>
+            <adrline3>CS 35015</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>14050</pstcd>
+            <strtnm></strtnm>
+            <twnnm>CAEN CEDEX 4</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 31 30 70 91</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 31 30 70 70</pnumber>
+        </tel>
+        <ville>CAEN CEDEX 4</ville>
+    </internal>
+</panel>

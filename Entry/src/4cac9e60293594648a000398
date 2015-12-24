@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Tribunal du Travail de Mata-Utu</adrline1>
+            <adrline2>Tribunal du Travail de MATA-UTU</adrline2>
+            <adrline3>Tribunal de 1ère Instance</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>98600</pstcd>
+            <strtnm></strtnm>
+            <twnnm>UVEA</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber></pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+681 72 27 15</pnumber>
+        </tel>
+        <ville>UVEA</ville>
+    </internal>
+</panel>

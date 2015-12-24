@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Chalon-sur-Saône</adrline1>
+            <adrline2>1 Bis Rue de Bourgogne</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>71100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>CHALON SUR SAONE</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 85 97 16 93</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 85 97 16 97</pnumber>
+        </tel>
+        <ville>CHALON SUR SAONE</ville>
+    </internal>
+</panel>

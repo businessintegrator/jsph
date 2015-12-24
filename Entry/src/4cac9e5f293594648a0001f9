@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Foix</adrline1>
+            <adrline2>Palais de Justice</adrline2>
+            <adrline3>Rue du Rocher</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>09000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>FOIX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 61 65 69 42</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 61 65 43 53</pnumber>
+        </tel>
+        <ville>FOIX</ville>
+    </internal>
+</panel>

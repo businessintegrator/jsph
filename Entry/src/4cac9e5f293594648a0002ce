@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Saint-Omer</adrline1>
+            <adrline2>ZAC Ste-Catherine  Rue A. Camus</adrline2>
+            <adrline3>BP 303  Hôtel District Longuene</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>62505</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ST OMER CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber></pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 21 93 92 78</pnumber>
+        </tel>
+        <ville>ST OMER CEDEX</ville>
+    </internal>
+</panel>

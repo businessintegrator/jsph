@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Nantes</adrline1>
+            <adrline2>26 Bd Vincent Gache</adrline2>
+            <adrline3>B.P. 90311</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>44203</pstcd>
+            <strtnm></strtnm>
+            <twnnm>NANTES CEDEX 2</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 40 20 61 31</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 40 20 61 30</pnumber>
+        </tel>
+        <ville>NANTES CEDEX 2</ville>
+    </internal>
+</panel>

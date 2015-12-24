@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Morlaix</adrline1>
+            <adrline2>6 allée du Poan ben</adrline2>
+            <adrline3>C.S. 47811</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>29678</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MORLAIX CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 98 88 30 01</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 98 88 64 51</pnumber>
+        </tel>
+        <ville>MORLAIX CEDEX</ville>
+    </internal>
+</panel>

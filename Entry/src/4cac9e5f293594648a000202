@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Martigues</adrline1>
+            <adrline2>Centre Commercial</adrline2>
+            <adrline3>Paradis Saint-Roch</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>13500</pstcd>
+            <strtnm></strtnm>
+            <twnnm>MARTIGUES</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 42 80 09 14</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 42 80 45 53</pnumber>
+        </tel>
+        <ville>MARTIGUES</ville>
+    </internal>
+</panel>

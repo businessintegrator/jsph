@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Amiens</adrline1>
+            <adrline2>18 rue Lamartine</adrline2>
+            <adrline3>Espace Lamartine - BP 2722</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>80027</pstcd>
+            <strtnm></strtnm>
+            <twnnm>AMIENS CEDEX 1</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 22 82 46 48</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 22 82 46 50</pnumber>
+        </tel>
+        <ville>AMIENS CEDEX 1</ville>
+    </internal>
+</panel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Aix-les-Bains</adrline1>
+            <adrline2>Résidence Bernascon</adrline2>
+            <adrline3>6 Boulevard de la Roche du Roy</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>73100</pstcd>
+            <strtnm></strtnm>
+            <twnnm>AIX LES BAINS</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 4 79 88 98 25</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 4 79 61 37 24</pnumber>
+        </tel>
+        <ville>AIX LES BAINS</ville>
+    </internal>
+</panel>

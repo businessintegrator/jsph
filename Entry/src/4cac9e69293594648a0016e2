@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Saint-Brieuc</adrline1>
+            <adrline2>17 rue Parmentier</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>22000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ST BRIEUC</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 96 33 45 43</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 96 33 34 43</pnumber>
+        </tel>
+        <ville>ST BRIEUC</ville>
+    </internal>
+</panel>

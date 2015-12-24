@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Saint-Gaudens</adrline1>
+            <adrline2>5 Rue de la République</adrline2>
+            <adrline3>B.P. 175</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>31804</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ST GAUDENS CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 5 61 95 46 66</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 61 89 70 44</pnumber>
+        </tel>
+        <ville>ST GAUDENS CEDEX</ville>
+    </internal>
+</panel>

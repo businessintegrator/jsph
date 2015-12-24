@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>com.bi.jsph</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>org.jasypt.commons</package>
+                <package>org.jasypt.contrib.org.apache.commons.codec_1_3</package>
+                <package>org.jasypt.contrib.org.apache.commons.codec_1_3.binary</package>
+                <package>org.jasypt.digest</package>
+                <package>org.jasypt.digest.config</package>
+                <package>org.jasypt.encryption</package>
+                <package>org.jasypt.encryption.pbe</package>
+                <package>org.jasypt.encryption.pbe.config</package>
+                <package>org.jasypt.exceptions</package>
+                <package>org.jasypt.intf.cli</package>
+                <package>org.jasypt.intf.service</package>
+                <package>org.jasypt.normalization</package>
+                <package>org.jasypt.properties</package>
+                <package>org.jasypt.registry</package>
+                <package>org.jasypt.salt</package>
+                <package>org.jasypt.util.binary</package>
+                <package>org.jasypt.util.digest</package>
+                <package>org.jasypt.util.numeric</package>
+                <package>org.jasypt.util.password</package>
+                <package>org.jasypt.util.password.rfc2307</package>
+                <package>org.jasypt.util.text</package>
+                <package>org.jasypt.web.pbeconfig</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/jasypt-1.9.0.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jasypt-1.9.0.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

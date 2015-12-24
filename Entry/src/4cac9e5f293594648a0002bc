@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Compiègne</adrline1>
+            <adrline2>2 rue du Dahomey</adrline2>
+            <adrline3>BP 40709</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>60207</pstcd>
+            <strtnm></strtnm>
+            <twnnm>COMPIEGNE CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 44 40 34 40</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 60 03 30 31</pnumber>
+        </tel>
+        <ville>COMPIEGNE CEDEX</ville>
+    </internal>
+</panel>

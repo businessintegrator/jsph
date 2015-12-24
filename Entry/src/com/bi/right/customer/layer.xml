@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="com-bi-right-customer-OpenProjectFile.instance_hidden"/>
+        </folder>
+    </folder>
+    <folder name="QuickSearch">
+        <folder name="Loi">
+            <attr name="command" stringvalue="L"/>
+            <attr name="position" intvalue="0"/>
+            <file name="com-bi-right-customer-panel-JSPHProvider.instance">
+                <attr name="displayName" bundlevalue="com.bi.right.customer.Bundle#QuickSearch/Loi/com-bi-right-customer-panel-JSPHProvider.instance"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

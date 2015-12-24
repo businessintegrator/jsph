@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes d'Argentan</adrline1>
+            <adrline2>Rue des Vieilles Halles</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>61200</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ARGENTAN</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 33 36 99 32</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 33 67 61 21</pnumber>
+        </tel>
+        <ville>ARGENTAN</ville>
+    </internal>
+</panel>

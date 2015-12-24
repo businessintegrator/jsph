@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Rouen</adrline1>
+            <adrline2>1 place de la Madeleine</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>76000</pstcd>
+            <strtnm></strtnm>
+            <twnnm>ROUEN</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 35 89 91 69</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 35 07 94 50</pnumber>
+        </tel>
+        <ville>ROUEN</ville>
+    </internal>
+</panel>

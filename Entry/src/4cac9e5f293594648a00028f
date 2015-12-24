@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Longwy</adrline1>
+            <adrline2>16/18 Rue du Colonel Merlin</adrline2>
+            <adrline3>B.P.195</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>54401</pstcd>
+            <strtnm></strtnm>
+            <twnnm>LONGWY CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 3 82 25 71 05</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 3 82 24 29 27</pnumber>
+        </tel>
+        <ville>LONGWY CEDEX</ville>
+    </internal>
+</panel>

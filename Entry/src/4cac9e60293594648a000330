@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Thouars</adrline1>
+            <adrline2>2 Rue Jules Ferry</adrline2>
+            <adrline3>B.P. 127</adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>79103</pstcd>
+            <strtnm></strtnm>
+            <twnnm>THOUARS CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber></pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 5 49 66 26 09</pnumber>
+        </tel>
+        <ville>THOUARS CEDEX</ville>
+    </internal>
+</panel>

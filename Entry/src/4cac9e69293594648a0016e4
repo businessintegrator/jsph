@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Quimper</adrline1>
+            <adrline2>Mairie Annexe d'Ergué Armel</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>29196</pstcd>
+            <strtnm></strtnm>
+            <twnnm>QUIMPER CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 2 98 52 13 28</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 2 98 90 07 00</pnumber>
+        </tel>
+        <ville>QUIMPER CEDEX</ville>
+    </internal>
+</panel>

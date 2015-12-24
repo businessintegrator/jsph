@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<panel>
+    <internal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Conseil">
+        <addrid>
+            <adrline1>Conseil de Prud'hommes de Versailles</adrline1>
+            <adrline2>5 Place Mignot</adrline2>
+            <adrline3></adrline3>
+            <adrline4></adrline4>
+            <adrline5></adrline5>
+            <adrline6></adrline6>
+            <adrline7></adrline7>
+            <bldgnb></bldgnb>
+            <ctry></ctry>
+            <dept></dept>
+            <pstcd>78004</pstcd>
+            <strtnm></strtnm>
+            <twnnm>VERSAILLES CEDEX</twnnm>
+        </addrid>
+        <chambre></chambre>
+        <fax>
+            <pnumber>+33 1 39 07 39 80</pnumber>
+        </fax>
+        <section></section>
+        <tel>
+            <pnumber>+33 1 39 07 39 98</pnumber>
+        </tel>
+        <ville>VERSAILLES CEDEX</ville>
+    </internal>
+</panel>
