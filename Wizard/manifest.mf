@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-OpenIDE-Module: com.jsph.wiz
-OpenIDE-Module-Localizing-Bundle: com/jsph/wiz/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
-
