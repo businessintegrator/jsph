@@ -138,8 +138,14 @@ public class SaisineJPanel extends AbstractPanel {
 	    Transformers optimusPrime = new Transformers();
 	    String xml = getParentRoot().getPath();
 	    xml = xml.replace("\\", "/");
+	    //sorry for the Fun tiaray
 	    String xsl = "C:/jsph/xslt/saisine.properties.xsl";
 	    String url = xml + ".html";
+	    if(!new java.io.File(xsl).exists()){
+		xsl ="http://businessintegrator.fr/support/jsph/wordmltemplate.xml";
+	    }
+	    //The original file is at 
+	    //http://businessintegrator.fr/support/jsph/saisine.properties.xsl
 	    optimusPrime.transform(xml, xsl, url);
 	    openUrl("file:///" + url);
 
@@ -157,9 +163,13 @@ public class SaisineJPanel extends AbstractPanel {
 	    Transformers optimusPrime = new Transformers();
 	    String xml = getParentRoot().getPath();
 	    xml = xml.replace("\\", "/");
+	    //sorry for the Fun tiaray
 	    String xsl = "C:/jsph/xslt/dollard/wordmltemplate.xml";
 	    String url = xml + ".doc";
-	    
+	    ////The original file is at 
+	    if(!new java.io.File(xsl).exists()){
+		xsl ="http://businessintegrator.fr/support/jsph/wordmltemplate.xml";
+	    }
 	    optimusPrime.transform(xml, xsl, url);
 	   
 	    openUrl("file:///" + url);
