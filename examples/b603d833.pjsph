@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pieces>
+    <list>
+        <numero>1</numero>
+        <label>contrat</label>
+        <startDate>2015-12-25T14:52:00+01:00</startDate>
+        <files>
+            <index>0</index>
+            <path>C:\000\remore_jsph\jsph\examples\issue1.jpg</path>
+            <fileLength>0</fileLength>
+        </files>
+        <printed>false</printed>
+    </list>
+</pieces>
