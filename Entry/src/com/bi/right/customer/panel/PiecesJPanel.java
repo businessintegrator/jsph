@@ -1140,22 +1140,5 @@ public class PiecesJPanel extends AbstractPanel {
 	this.currentDirectory = currentDirectory;
     }
 
-    public static void main(String[] args) {
-	/* Create and display the dialog */
-	java.awt.EventQueue.invokeLater(new Runnable() {
-	    public void run() {
-		javax.swing.JFrame dialog = new javax.swing.JFrame();
-		dialog.addWindowListener(new java.awt.event.WindowAdapter() {
-		    @Override
-		    public void windowClosing(java.awt.event.WindowEvent e) {
-			System.exit(0);
-		    }
-		});
-		dialog.getContentPane().setLayout(new BorderLayout());
-		dialog.getContentPane().add(new PiecesJPanel(), BorderLayout.CENTER);
-		dialog.pack();
-		dialog.setVisible(true);
-	    }
-	});
-    }
+   
 }
